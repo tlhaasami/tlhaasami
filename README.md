@@ -32,7 +32,7 @@ I am a Software Engineer specializing in building robust, scalable applications 
 ## Skills & Technologies Visualizer
 
 <p align="center">
-  <img src="./Skills_Animation_Dark.gif" alt="Skills Animation Dark" width="800" />
+  <img src="./Skills_Animation_Dark.gif" alt="Skills Animation Dark" width="500" />
 </p>
 
 
