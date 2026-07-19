@@ -1,86 +1,38 @@
-# Hi, I’m Talha Sami
+# Hi, I'm Talha Sami 👋
 
-**Software Engineering Student | Flutter Developer | UI/UX Enthusiast | GHL Expert | Automation Engineer**
+**Full-Stack Engineer | CRM & Automation Specialist | Mobile Developer**
 
----
+> *Bridging the gap between complex engineering and clear strategy.*
 
-## About Me
-
-I am a Software Engineering student with a keen interest in mobile app development and user-centered design. I enjoy building real-world applications using Flutter while continuously improving my skills in problem-solving and software engineering principles.
-
-I also specialize in GoHighLevel (GHL), building automation workflows, CRM pipelines, and integrations to optimize business processes and conversions.
-
-Portfolio:  
-https://tlhasami.github.io/portfolio/
-
----
-
-## Tech Stack
-
-### Programming Languages
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
-</p>
-
-### Frameworks & Libraries
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="50"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="50"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="50"/>
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" width="50"/>
-</p>
-
-### Databases
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="50"/>
-</p>
-
-### Automation & Integrations
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" width="50"/>
-</p>
-
-### Tools & Platforms
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50"/>
-</p>
-
-### IDEs & Editors
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/>
-  <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50"/>
+  <img src="./coding.gif" alt="Coding Animation" width="400" />
 </p>
 
 ---
 
-## Projects
+## 🚀 About Me
 
-https://github.com/tlhasami
+I am a Software Engineer specializing in building robust, scalable applications from the ground up. My technical foundation spans full-stack web architectures, cross-platform mobile development (Flutter), and advanced CRM workflow automation (GoHighLevel, n8n, Make). I focus on writing clean, high-performance code and translating complex technical requirements into actionable solutions.
 
----
-
-## Problem Solving
-
-https://leetcode.com/tlhasami
+[🌐 Portfolio Website](https://tlhaasami.netlify.app/) | [💼 LinkedIn](https://www.linkedin.com/in/tlhaasami/) | [✉️ Email](mailto:tlhaasami@gmail.com) | [💬 WhatsApp](https://wa.me/923139549737)
 
 ---
 
-## Contact
+## 🛠️ Tech Stack & Tools
 
-- Email: talharajpoot2711@gmail.com  
-- GitHub: https://github.com/tlhasami  
-- LinkedIn: https://www.linkedin.com/in/tlhasami
+* **Languages:** Dart, Python, JavaScript, TypeScript, Go, C++, C, Java
+* **Frontend:** React, Next.js, Flutter, HTML5, CSS3, Tailwind CSS
+* **Backend & Databases:** Node.js, Express, Go, PostgreSQL, MongoDB, MySQL, Redis, Firebase
+* **Automation & CRM:** GoHighLevel (GHL), n8n, Make.com, Zapier
+* **AI/ML & Tools:** TensorFlow, PyTorch, LangChain, Git, Docker, Postman, Figma
+
+---
+
+## 📈 Skills & Technologies Visualizer
+
+<p align="center">
+  <img src="./Skills_Animation_Dark.gif" alt="Skills Animation Dark" width="800" />
+</p>
+
+
+
